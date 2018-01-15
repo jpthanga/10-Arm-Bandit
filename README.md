@@ -1,6 +1,13 @@
-**B659 - RLGlue README.md**
-====================
+#10 Arm Bandit
+Jeshuran Thangaraj
 
+SimpleExp.cxx: 
+This contains the file that implements the experiments. Average , and constant step size
+
+Plots:
+Contains plot for both experiments.
+
+Documentation for RlGlue is given below:
 Created by: Matthew Schlegel, Created on: Jan 3, 2017
 
 This will be a general overview of the framework used for this course. It is a simpler version of the RLGlue found at http://glue.rl-community.org/wiki/Main_Page.
@@ -126,8 +133,6 @@ Experiment file : SimpleExp.cxx
 
 This file contains a basic episode based RL experiment.
 
-This contains the file that implements the experiments. Average , and constant step size
-
 
 Parameter Sweeping : ParameterSweepExp.cxx ParameterSweepAgent.cxx ParameterSweep.h
 ---------------------
@@ -151,5 +156,5 @@ Plotting: plot.r
 This is just an example plot file. Please feel free using any plotting language you wish, 
 but still include all code used for plotting.
 
-Contains plot for both experiments.
+
 
